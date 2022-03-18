@@ -1,2 +1,5 @@
-# technicaldocumentation
-Folder contains examples of User Guides, How To's, Readme's, WIKI articles, live presentations.
+# Technical Documentation
+## Introduction
+Hello! My name is **Dmitry** and I work as a Senior Technical Writer and Writers Team Lead in the company **Hazeltree**. The company provides cloud-based solution for treasury management. The platform itself represents a multi-component and complex application that consists of modules, each developed for a particular task: cash management, risk mitigation, FX hedging, private equity, security and collateral management. I was the first and only Technical Writer for four years and I have used this time to create a monolith techincal documentation block: public and private User Guides, regular Release Notes, internal WIKI articles, little How To's and Readme's, API documentation, short educatory videos. I have also performed live presentations of "how does this work" fashion. I have solely created and integrated an Online Knowledge Base - it it now available for our clients directly from the platform. Later I have become a head of the Writers department and managed a team of Technical Writers: the work was extensive.
+## Contents
+This repository contains several folders where you can find examples of my work. The majority of the documentation was created in Microsoft Word, however we did use Markdown tools for brief and private documents.
